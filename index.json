@@ -21,11 +21,25 @@
 	"content": ""
 },
 {
+	"uri": "/tags/devops.html",
+	"title": "DevOps",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
 	"uri": "/",
 	"title": "Home",
 	"tags": [],
 	"description": "",
 	"content": "Home "
+},
+{
+	"uri": "/tags/kubernetes.html",
+	"title": "Kubernetes",
+	"tags": [],
+	"description": "",
+	"content": ""
 },
 {
 	"uri": "/kubernetes.html",
@@ -44,7 +58,7 @@
 {
 	"uri": "/kubernetes/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4%EB%9E%80.html",
 	"title": "쿠버네티스란",
-	"tags": [],
+	"tags": ["Kubernetes", "DevOps"],
 	"description": "",
 	"content": "What "
 }]
